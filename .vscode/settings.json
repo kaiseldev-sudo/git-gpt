@@ -1,0 +1,16 @@
+{
+    "typescript.preferences.includePackageJsonAutoImports": "on",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "out": false,
+        "dist": true,
+        "**/*.vsix": true
+    },
+    "search.exclude": {
+        "out": true,
+        "dist": true,
+        "**/*.vsix": true
+    },
+    "typescript.tsc.autoDetect": "off"
+}

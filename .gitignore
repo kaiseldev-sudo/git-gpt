@@ -1,0 +1,11 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+.env*
+code-activity-log.txt
+**/*-log.txt
+.DS_Store
+Thumbs.db
+.bolt

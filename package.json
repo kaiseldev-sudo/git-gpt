@@ -4,6 +4,10 @@
   "description": "Generate intelligent Git commit messages based on your recent coding activity",
   "version": "1.0.0",
   "publisher": "your-publisher-name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaiseldev-sudo/git-gpt.git"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
